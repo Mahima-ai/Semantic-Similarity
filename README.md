@@ -3,7 +3,9 @@ Exploring various semantic similarity approaches in Python and displaying throug
 
 This repository shares the code snippets for training and inferencing different NLP models for semantic similarity.
 
-![](NLP_Semantic_Similarity.mov)
+The working demo of the project is at 
+![NLP_Semantic_Similarity.mov](NLP_Semantic_Similarity.mov)
+
 
 ## Steps to execute
 
