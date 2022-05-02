@@ -5,7 +5,7 @@ This repository shares the code snippets for training and inferencing different 
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" >    
-    <source src="./NLP_Semantic_Similarity.webm" type="video/webm">
+    <source src="NLP_Semantic_Similarity.webm" type="video/webm">
   </video>
 </figure>
 
